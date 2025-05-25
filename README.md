@@ -11,7 +11,7 @@ This project implements a complete MLOps pipeline for fraud detection:
 - Model deployment and serving
 - Real-time monitoring dashboard for model performance
 
-## Dataset link:
+## Dataset:
 https://www.kaggle.com/datasets/amanalisiddiqui/fraud-detection-dataset
 
 ### Setup
