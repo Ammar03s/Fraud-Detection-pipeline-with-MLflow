@@ -1,4 +1,4 @@
-# Fraud Hunter - MLOps Project
+# Fraud Hunter - MLflow
 
 A  fraud detection system built with MLflow for model tracking, hyperparameter tuning, deployment, and monitoring.
 
